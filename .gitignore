@@ -60,4 +60,4 @@ local.properties
 .worksheet
 
 #database.properties
-.properties
+*.properties
